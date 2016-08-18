@@ -1,0 +1,17 @@
+{
+    "name": "itim-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cadson Demak"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/itim-bower.git"
+    },
+    "description": "Itim font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
